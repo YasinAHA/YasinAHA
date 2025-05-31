@@ -12,7 +12,7 @@
   - **Adcore** – desarrollo fullstack para web de Trotalia Viajes (PHP, JS, MySQL)
 - 🧠 Matrícula de Honor en **Java** durante el primer curso de DAW
 - 🚀 Me apasiona el desarrollo de aplicaciones modernas, accesibles y bien estructuradas
-- 🔎 Buscando mi primera oportunidad como **Desarrollador Fullstack Junior**
+- 🔎 Buscando mi una oportunidad como **Desarrollador Fullstack Junior**
 
 ---
 
